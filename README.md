@@ -61,20 +61,14 @@ KrishiCobot/
 ├── Hardware/
 │   ├── ebot_nav_hardware.py        # Real robot navigation
 │   ├── perception_hardware.py      # Real camera perception
-│   ├── Videos                      # Glampse of Hardware
-│   │   └── Hardware_demo.mp4
 │   ├── Images                      
 │   │   ├── Ur5_img
 │
-├── simulation/
-│   ├── Images
-│   ├── Videos        
+├── simulation/    
 │   ├── ebot_nav.py                 # eBot navigation (simulation)
 │   ├── manipulation.py             # UR5 pick & place logic
 │   ├── perception.py               # Vision + TF publishing
 │   ├── shape_detector.py           # LiDAR RANSAC shape detection
-│   ├── Videos                      
-│   │   └── Ur5_workflow.mp4
 │   ├── Images                      
 │   │   ├── Arm.png
 │   │   ├── Fruits_and_Fertilizer.png
