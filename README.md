@@ -149,7 +149,7 @@ source ~/.bashrc
 ```
 Clone my codes:
 ```bash
-git clone https://github.com/Humobot1812/KrishiCobot.git
+git clone https://github.com/Humobot1812/KrishiCobot.git ./src
 cd KrishiCobot
 ```
 
